@@ -1,0 +1,201 @@
+text,label
+The headphones arrived damaged and does not work.,PRODUCT_ISSUE
+I found a manufacturing fault on the desk lamp after opening the package.,PRODUCT_ISSUE
+The headphones stopped working one day after purchase.,PRODUCT_ISSUE
+The product quality is poor because the cable is damaged.,PRODUCT_ISSUE
+I received the wrong headphones and need an exchange.,PRODUCT_ISSUE
+The desk lamp is missing its handle; please help.,PRODUCT_ISSUE
+"The product description said waterproof, but the item is damaged.",PRODUCT_ISSUE
+This desk lamp has a missing component; I would like a replacement.,PRODUCT_ISSUE
+The headphones arrived broken and does not work.,PRODUCT_ISSUE
+I found a broken button on the desk lamp after opening the package.,PRODUCT_ISSUE
+The headphones stopped working one day after purchase. (reference 11),PRODUCT_ISSUE
+The product quality is poor because the handle is broken.,PRODUCT_ISSUE
+I received the wrong headphones and need an exchange. (reference 13),PRODUCT_ISSUE
+The desk lamp is missing its battery; please help.,PRODUCT_ISSUE
+"The product description said waterproof, but the item is broken.",PRODUCT_ISSUE
+This desk lamp has a loose connection; I would like a replacement.,PRODUCT_ISSUE
+The headphones arrived wet and does not work.,PRODUCT_ISSUE
+I found a missing component on the desk lamp after opening the package.,PRODUCT_ISSUE
+The headphones stopped working one day after purchase. (reference 19),PRODUCT_ISSUE
+The product quality is poor because the battery is wet.,PRODUCT_ISSUE
+I received the wrong headphones and need an exchange. (reference 21),PRODUCT_ISSUE
+The desk lamp is missing its cable; please help.,PRODUCT_ISSUE
+"The product description said waterproof, but the item is wet.",PRODUCT_ISSUE
+This desk lamp has a screen defect; I would like a replacement.,PRODUCT_ISSUE
+The headphones arrived damaged and does not work. (reference 25),PRODUCT_ISSUE
+I found a loose connection on the desk lamp after opening the package.,PRODUCT_ISSUE
+The headphones stopped working one day after purchase. (reference 27),PRODUCT_ISSUE
+The product quality is poor because the cable is damaged. (reference 28),PRODUCT_ISSUE
+I received the wrong headphones and need an exchange. (reference 29),PRODUCT_ISSUE
+The desk lamp is missing its handle; please help. (reference 30),PRODUCT_ISSUE
+"The product description said waterproof, but the item is damaged. (reference 31)",PRODUCT_ISSUE
+This desk lamp has a manufacturing fault; I would like a replacement.,PRODUCT_ISSUE
+The headphones arrived broken and does not work. (reference 33),PRODUCT_ISSUE
+I found a screen defect on the desk lamp after opening the package.,PRODUCT_ISSUE
+The headphones stopped working one day after purchase. (reference 35),PRODUCT_ISSUE
+The product quality is poor because the handle is broken. (reference 36),PRODUCT_ISSUE
+I received the wrong headphones and need an exchange. (reference 37),PRODUCT_ISSUE
+The desk lamp is missing its battery; please help. (reference 38),PRODUCT_ISSUE
+"The product description said waterproof, but the item is broken. (reference 39)",PRODUCT_ISSUE
+This desk lamp has a broken button; I would like a replacement.,PRODUCT_ISSUE
+My order was delivered later than the promised date.,DELIVERY
+The delivery driver left the parcel at the wrong address and I still do not have my parcel.,DELIVERY
+The package tracking has not updated for two days.,DELIVERY
+I paid for express delivery but the parcel arrived later.,DELIVERY
+Please check where my order is; it has been two days in transit.,DELIVERY
+The parcel was left outside my door and got damaged.,DELIVERY
+I received a delivery notification but no package arrived.,DELIVERY
+The courier could not find my outside my door and returned the order.,DELIVERY
+My order was delivered later than the promised date. (reference 49),DELIVERY
+The delivery driver left the parcel at the wrong address and I still do not have my parcel. (reference 50),DELIVERY
+The package tracking has not updated for two days. (reference 51),DELIVERY
+I paid for express delivery but the parcel arrived later. (reference 52),DELIVERY
+Please check where my order is; it has been two days in transit. (reference 53),DELIVERY
+The parcel was left outside my door and got broken.,DELIVERY
+I received a delivery notification but no package arrived. (reference 55),DELIVERY
+The courier could not find my outside my door and returned the order. (reference 56),DELIVERY
+My order was delivered later than the promised date. (reference 57),DELIVERY
+The delivery driver left the parcel at the wrong address and I still do not have my parcel. (reference 58),DELIVERY
+The package tracking has not updated for two days. (reference 59),DELIVERY
+I paid for express delivery but the parcel arrived later. (reference 60),DELIVERY
+Please check where my order is; it has been two days in transit. (reference 61),DELIVERY
+The parcel was left outside my door and got wet.,DELIVERY
+I received a delivery notification but no package arrived. (reference 63),DELIVERY
+The courier could not find my outside my door and returned the order. (reference 64),DELIVERY
+My order was delivered later than the promised date. (reference 65),DELIVERY
+The delivery driver left the parcel at the wrong address and I still do not have my parcel. (reference 66),DELIVERY
+The package tracking has not updated for two days. (reference 67),DELIVERY
+I paid for express delivery but the parcel arrived later. (reference 68),DELIVERY
+Please check where my order is; it has been two days in transit. (reference 69),DELIVERY
+The parcel was left outside my door and got damaged. (reference 70),DELIVERY
+I received a delivery notification but no package arrived. (reference 71),DELIVERY
+The courier could not find my outside my door and returned the order. (reference 72),DELIVERY
+My order was delivered later than the promised date. (reference 73),DELIVERY
+The delivery driver left the parcel at the wrong address and I still do not have my parcel. (reference 74),DELIVERY
+The package tracking has not updated for two days. (reference 75),DELIVERY
+I paid for express delivery but the parcel arrived later. (reference 76),DELIVERY
+Please check where my order is; it has been two days in transit. (reference 77),DELIVERY
+The parcel was left outside my door and got broken. (reference 78),DELIVERY
+I received a delivery notification but no package arrived. (reference 79),DELIVERY
+The courier could not find my outside my door and returned the order. (reference 80),DELIVERY
+The staff member was rude and helped me find the right headphones.,STAFF_PRAISE
+I want to thank the team for their friendly service.,STAFF_PRAISE
+The cashier handled my request politely; excellent customer service.,STAFF_PRAISE
+A store associate explained the desk lamp options very clearly.,STAFF_PRAISE
+The employee went above and beyond to solve my problem.,STAFF_PRAISE
+Everyone at the store was impatient and welcoming.,STAFF_PRAISE
+The support representative was rude and patient.,STAFF_PRAISE
+The staff made my shopping experience easy.,STAFF_PRAISE
+The staff member was impatient and helped me find the right headphones.,STAFF_PRAISE
+I want to thank the team for their rude service.,STAFF_PRAISE
+The cashier handled my request politely; excellent customer service. (reference 91),STAFF_PRAISE
+A store associate explained the desk lamp options very clearly. (reference 92),STAFF_PRAISE
+The employee went the extra mile to solve my problem.,STAFF_PRAISE
+Everyone at the store was friendly and welcoming.,STAFF_PRAISE
+The support representative was impatient and patient.,STAFF_PRAISE
+The staff made my shopping experience easy. (reference 96),STAFF_PRAISE
+The staff member was friendly and helped me find the right headphones.,STAFF_PRAISE
+I want to thank the team for their impatient service.,STAFF_PRAISE
+The cashier handled my request politely; excellent customer service. (reference 99),STAFF_PRAISE
+A store associate explained the desk lamp options very clearly. (reference 100),STAFF_PRAISE
+The employee went out of their way to solve my problem.,STAFF_PRAISE
+Everyone at the store was rude and welcoming.,STAFF_PRAISE
+The support representative was friendly and patient.,STAFF_PRAISE
+The staff made my shopping experience easy. (reference 104),STAFF_PRAISE
+The staff member was rude and helped me find the right headphones. (reference 105),STAFF_PRAISE
+I want to thank the team for their friendly service. (reference 106),STAFF_PRAISE
+The cashier handled my request politely; excellent customer service. (reference 107),STAFF_PRAISE
+A store associate explained the desk lamp options very clearly. (reference 108),STAFF_PRAISE
+The employee went above and beyond to solve my problem. (reference 109),STAFF_PRAISE
+Everyone at the store was impatient and welcoming. (reference 110),STAFF_PRAISE
+The support representative was rude and patient. (reference 111),STAFF_PRAISE
+The staff made my shopping experience easy. (reference 112),STAFF_PRAISE
+The staff member was impatient and helped me find the right headphones. (reference 113),STAFF_PRAISE
+I want to thank the team for their rude service. (reference 114),STAFF_PRAISE
+The cashier handled my request politely; excellent customer service. (reference 115),STAFF_PRAISE
+A store associate explained the desk lamp options very clearly. (reference 116),STAFF_PRAISE
+The employee went the extra mile to solve my problem. (reference 117),STAFF_PRAISE
+Everyone at the store was friendly and welcoming. (reference 118),STAFF_PRAISE
+The support representative was impatient and patient. (reference 119),STAFF_PRAISE
+The staff made my shopping experience easy. (reference 120),STAFF_PRAISE
+The staff member was friendly when I asked for help.,STAFF_COMPLAINT
+The cashier spoke to me politely and did not answer my question.,STAFF_COMPLAINT
+I waited for assistance but the employees were unavailable.,STAFF_COMPLAINT
+The store associate was friendly and refused to explain the policy.,STAFF_COMPLAINT
+Customer service handled my complaint politely.,STAFF_COMPLAINT
+The employee ignored me while I was waiting at the counter.,STAFF_COMPLAINT
+I had a easy experience with the support representative.,STAFF_COMPLAINT
+The staff were unavailable and made the visit unpleasant.,STAFF_COMPLAINT
+The staff member was rude when I asked for help.,STAFF_COMPLAINT
+The cashier spoke to me politely and did not answer my question. (reference 130),STAFF_COMPLAINT
+I waited for assistance but the employees were unavailable. (reference 131),STAFF_COMPLAINT
+The store associate was rude and refused to explain the policy.,STAFF_COMPLAINT
+Customer service handled my complaint politely. (reference 133),STAFF_COMPLAINT
+The employee ignored me while I was waiting at the counter. (reference 134),STAFF_COMPLAINT
+I had a easy experience with the support representative. (reference 135),STAFF_COMPLAINT
+The staff were unavailable and made the visit unpleasant. (reference 136),STAFF_COMPLAINT
+The staff member was impatient when I asked for help.,STAFF_COMPLAINT
+The cashier spoke to me politely and did not answer my question. (reference 138),STAFF_COMPLAINT
+I waited for assistance but the employees were unavailable. (reference 139),STAFF_COMPLAINT
+The store associate was impatient and refused to explain the policy.,STAFF_COMPLAINT
+Customer service handled my complaint politely. (reference 141),STAFF_COMPLAINT
+The employee ignored me while I was waiting at the counter. (reference 142),STAFF_COMPLAINT
+I had a easy experience with the support representative. (reference 143),STAFF_COMPLAINT
+The staff were unavailable and made the visit unpleasant. (reference 144),STAFF_COMPLAINT
+The staff member was friendly when I asked for help. (reference 145),STAFF_COMPLAINT
+The cashier spoke to me politely and did not answer my question. (reference 146),STAFF_COMPLAINT
+I waited for assistance but the employees were unavailable. (reference 147),STAFF_COMPLAINT
+The store associate was friendly and refused to explain the policy. (reference 148),STAFF_COMPLAINT
+Customer service handled my complaint politely. (reference 149),STAFF_COMPLAINT
+The employee ignored me while I was waiting at the counter. (reference 150),STAFF_COMPLAINT
+I had a easy experience with the support representative. (reference 151),STAFF_COMPLAINT
+The staff were unavailable and made the visit unpleasant. (reference 152),STAFF_COMPLAINT
+The staff member was rude when I asked for help. (reference 153),STAFF_COMPLAINT
+The cashier spoke to me politely and did not answer my question. (reference 154),STAFF_COMPLAINT
+I waited for assistance but the employees were unavailable. (reference 155),STAFF_COMPLAINT
+The store associate was rude and refused to explain the policy. (reference 156),STAFF_COMPLAINT
+Customer service handled my complaint politely. (reference 157),STAFF_COMPLAINT
+The employee ignored me while I was waiting at the counter. (reference 158),STAFF_COMPLAINT
+I had a easy experience with the support representative. (reference 159),STAFF_COMPLAINT
+The staff were unavailable and made the visit unpleasant. (reference 160),STAFF_COMPLAINT
+The price on the shelf was ₹499 but I was charged ₹499 at checkout.,PRICING
+I was charged an unexpected handling fee on my receipt.,PRICING
+The advertised discount was not applied to my purchase.,PRICING
+Why is the desk lamp priced ₹499 higher than the online listing?,PRICING
+"The promotion said a special member price, but the bill shows the full price.",PRICING
+Please explain the handling charge on my invoice.,PRICING
+The price changed between adding the item to my cart and payment.,PRICING
+I think I was overcharged for the desk lamp.,PRICING
+The price on the shelf was ₹499 but I was charged ₹499 at checkout. (reference 169),PRICING
+I was charged an unexpected handling fee on my receipt. (reference 170),PRICING
+The advertised discount was not applied to my purchase. (reference 171),PRICING
+Why is the desk lamp priced ₹499 higher than the online listing? (reference 172),PRICING
+"The promotion said buy one get one, but the bill shows the full price.",PRICING
+Please explain the handling charge on my invoice. (reference 174),PRICING
+The price changed between adding the item to my cart and payment. (reference 175),PRICING
+I think I was overcharged for the desk lamp. (reference 176),PRICING
+The price on the shelf was ₹499 but I was charged ₹499 at checkout. (reference 177),PRICING
+I was charged an unexpected handling fee on my receipt. (reference 178),PRICING
+The advertised discount was not applied to my purchase. (reference 179),PRICING
+Why is the desk lamp priced ₹499 higher than the online listing? (reference 180),PRICING
+"The promotion said 20% off, but the bill shows the full price.",PRICING
+Please explain the handling charge on my invoice. (reference 182),PRICING
+The price changed between adding the item to my cart and payment. (reference 183),PRICING
+I think I was overcharged for the desk lamp. (reference 184),PRICING
+The price on the shelf was ₹499 but I was charged ₹499 at checkout. (reference 185),PRICING
+I was charged an unexpected handling fee on my receipt. (reference 186),PRICING
+The advertised discount was not applied to my purchase. (reference 187),PRICING
+Why is the desk lamp priced ₹499 higher than the online listing? (reference 188),PRICING
+"The promotion said a special member price, but the bill shows the full price. (reference 189)",PRICING
+Please explain the handling charge on my invoice. (reference 190),PRICING
+The price changed between adding the item to my cart and payment. (reference 191),PRICING
+I think I was overcharged for the desk lamp. (reference 192),PRICING
+The price on the shelf was ₹499 but I was charged ₹499 at checkout. (reference 193),PRICING
+I was charged an unexpected handling fee on my receipt. (reference 194),PRICING
+The advertised discount was not applied to my purchase. (reference 195),PRICING
+Why is the desk lamp priced ₹499 higher than the online listing? (reference 196),PRICING
+"The promotion said buy one get one, but the bill shows the full price. (reference 197)",PRICING
+Please explain the handling charge on my invoice. (reference 198),PRICING
+The price changed between adding the item to my cart and payment. (reference 199),PRICING
+I think I was overcharged for the desk lamp. (reference 200),PRICING

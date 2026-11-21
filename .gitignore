@@ -1,0 +1,11 @@
+# Secrets
+.env
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+# Generated model weights and runtime data (too large/private for Git)
+artifacts/
+data/
+# Generated evaluation figures are kept in reports/

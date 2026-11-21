@@ -1,0 +1,41 @@
+text,actual,predicted
+I was charged an unexpected handling fee on my receipt. (reference 186),PRICING,DELIVERY
+The desk lamp is missing its battery; please help.,PRODUCT_ISSUE,DELIVERY
+The package tracking has not updated for two days. (reference 59),DELIVERY,DELIVERY
+I found a missing component on the desk lamp after opening the package.,PRODUCT_ISSUE,DELIVERY
+A store associate explained the desk lamp options very clearly. (reference 100),STAFF_PRAISE,DELIVERY
+The staff member was rude and helped me find the right headphones. (reference 105),STAFF_PRAISE,DELIVERY
+The staff were unavailable and made the visit unpleasant. (reference 144),STAFF_COMPLAINT,DELIVERY
+Customer service handled my complaint politely. (reference 157),STAFF_COMPLAINT,DELIVERY
+I waited for assistance but the employees were unavailable. (reference 147),STAFF_COMPLAINT,DELIVERY
+The employee ignored me while I was waiting at the counter. (reference 142),STAFF_COMPLAINT,DELIVERY
+The courier could not find my outside my door and returned the order.,DELIVERY,DELIVERY
+This desk lamp has a missing component; I would like a replacement.,PRODUCT_ISSUE,DELIVERY
+Please explain the handling charge on my invoice. (reference 174),PRICING,DELIVERY
+I had a easy experience with the support representative. (reference 143),STAFF_COMPLAINT,DELIVERY
+"The product description said waterproof, but the item is wet.",PRODUCT_ISSUE,DELIVERY
+I received a delivery notification but no package arrived. (reference 55),DELIVERY,DELIVERY
+I think I was overcharged for the desk lamp. (reference 200),PRICING,DELIVERY
+This desk lamp has a screen defect; I would like a replacement.,PRODUCT_ISSUE,DELIVERY
+Everyone at the store was impatient and welcoming.,STAFF_PRAISE,DELIVERY
+I received a delivery notification but no package arrived. (reference 63),DELIVERY,DELIVERY
+The price changed between adding the item to my cart and payment. (reference 199),PRICING,DELIVERY
+This desk lamp has a loose connection; I would like a replacement.,PRODUCT_ISSUE,DELIVERY
+The price on the shelf was ₹499 but I was charged ₹499 at checkout. (reference 185),PRICING,DELIVERY
+The support representative was impatient and patient. (reference 119),STAFF_PRAISE,DELIVERY
+The price on the shelf was ₹499 but I was charged ₹499 at checkout. (reference 169),PRICING,DELIVERY
+I was charged an unexpected handling fee on my receipt. (reference 178),PRICING,DELIVERY
+I received a delivery notification but no package arrived. (reference 79),DELIVERY,DELIVERY
+The package tracking has not updated for two days. (reference 51),DELIVERY,DELIVERY
+I received the wrong headphones and need an exchange. (reference 21),PRODUCT_ISSUE,DELIVERY
+Everyone at the store was friendly and welcoming. (reference 118),STAFF_PRAISE,DELIVERY
+Please check where my order is; it has been two days in transit. (reference 61),DELIVERY,DELIVERY
+Everyone at the store was impatient and welcoming. (reference 110),STAFF_PRAISE,DELIVERY
+Please check where my order is; it has been two days in transit. (reference 69),DELIVERY,DELIVERY
+Why is the desk lamp priced ₹499 higher than the online listing?,PRICING,DELIVERY
+"The product description said waterproof, but the item is broken.",PRODUCT_ISSUE,DELIVERY
+The employee ignored me while I was waiting at the counter. (reference 134),STAFF_COMPLAINT,DELIVERY
+The cashier handled my request politely; excellent customer service. (reference 91),STAFF_PRAISE,DELIVERY
+The staff member was friendly when I asked for help.,STAFF_COMPLAINT,DELIVERY
+I waited for assistance but the employees were unavailable. (reference 155),STAFF_COMPLAINT,DELIVERY
+A store associate explained the desk lamp options very clearly. (reference 108),STAFF_PRAISE,DELIVERY
