@@ -1,3 +1,4 @@
+[![Built with askThili](https://ask.thili.ai/api/v1/public/projects/rt2mmyrf68/badge.svg)](https://ask.thili.ai/b/rt2mmyrf68)
 # Customer Feedback Analyzer
 
 A Streamlit application that classifies retail customer feedback using a GPT-2 model fine-tuned to predict special category tokens.
